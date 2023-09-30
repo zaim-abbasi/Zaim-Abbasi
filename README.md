@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Zaim, a software engineering student at NUCES University, Islamabad.<br>📚 Currently learning data structures in C++ and obsessed with JavaScript.<br>🛠️ Working on mastering data structures and Git.<br>🤝 Looking to collaborate on Exciting projects that involve JavaScript.<br>❓ Ask Me about Data structures, C++, JavaScript, full stack development.<br>🚀 Let's connect and craft the extraordinary in the world of code!
+👋 Hey, I'm Zaim, a software engineering student at NUCES University, Islamabad.<br>📚 Currently learning data structures in C++.<br>🛠️ Working on mastering data structures and Git.<br>🤝 Looking to collaborate on Exciting projects that involve JavaScript.<br>❓ Ask Me about Data structures, C++, JavaScript, full stack development.<br>🚀 Let's connect and craft the extraordinary in the world of code!
 
 
 ## 🌐 Socials:
