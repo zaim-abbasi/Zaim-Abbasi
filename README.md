@@ -1,13 +1,8 @@
 # 🌟 Welcome to My GitHub Profile!
 
-👋 Hello! I'm **Zaim**, a Software Engineering student at **NUCES**, Islamabad. 
+👋 Hello! I'm **Zaim**, a Software Engineering student at **NUCES**, Islamabad.<br>
 📚 I'm currently learning **ASP.NET** and **full-stack development**, leveraging my skills to build scalable applications <br>
 🧠 Passionate about **generative AI**, **ML**, and exploring the latest advancements in these fields.<br>
-
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaim-abbasi) Let's connect and embark on a journey to create impactful and transformative solutions together!
 
 ---
 
@@ -27,9 +22,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![Zaim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaim-Abbasi&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Zaim's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Zaim-Abbasi&theme=react&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaim-Abbasi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Zaim-Abbasi&show_icons=true&theme=dracula&title_color=fffff1&border_radius=18&include_all_commits=true&count_private=true" >
+
+<img src="[https://github-readme-streak-stats.herokuapp.com?user=umarwaseeem&theme=dracula](https://github-readme-streak-stats.herokuapp.com/?user=Zaim-Abbasi&&theme=dracula)">
 
 ---
 
@@ -39,5 +34,4 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Zaim-Abbasi&icon=0&color=1)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
