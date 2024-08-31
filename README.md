@@ -7,9 +7,7 @@
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaim-abbasi)
-
-🌐 Let's connect and embark on a journey to create impactful and transformative solutions together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaim-abbasi) Let's connect and embark on a journey to create impactful and transformative solutions together!
 
 ---
 
