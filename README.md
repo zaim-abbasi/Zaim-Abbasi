@@ -1,4 +1,4 @@
-![Welcome GIF](https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif)
+![Welcome GIF](https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif)
 
 # 🌟 Welcome to My Profile!
 
