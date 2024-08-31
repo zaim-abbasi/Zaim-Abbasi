@@ -1,6 +1,9 @@
+![Welcome GIF](https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif)
+
 # 🌟 Welcome to My Profile!
-👋 Hey there! I'm Zaim, a passionate software engineering student from NUCES University, Islamabad.<br>
-📚 Currently diving deep into ASP.NET and full-stack development.<br>
+
+👋 Hey there! I'm **Zaim**, a passionate software engineering student from **NUCES University, Islamabad**.<br>
+📚 Currently diving deep into **ASP.NET** and full-stack development.<br>
 🚀 Excited about collaborating on innovative projects and exploring new technologies.<br>
 🌐 Let's connect and make something amazing together!
 
@@ -25,7 +28,7 @@
 | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | | | ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) |
 | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) | ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) | | | ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) |
 | ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | | | |
- 
+
 ---
 
 ## 📊 GitHub Stats:
