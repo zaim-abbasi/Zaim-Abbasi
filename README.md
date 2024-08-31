@@ -1,18 +1,11 @@
-# 🌟 Welcome to My Profile!
-👋 Hey there! I'm Zaim, a passionate software engineering student from NUCES University, Islamabad.<br>
-📚 Currently diving deep into ASP.NET and full-stack development.<br>
-🚀 Excited about collaborating on innovative projects and exploring new technologies.<br>
-🌐 Let's connect and make something amazing together!
+# 🌟 Welcome to My GitHub Profile!
+
+👋 Hello! I'm **Zaim**, a Software Engineering student at **NUCES**, Islamabad. 
+📚 I'm currently learning **ASP.NET** and **full-stack development**, leveraging my skills to build scalable applications <br>
+🧠 Passionate about **generative AI**, **ML**, and exploring the latest advancements in these fields.<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaim-abbasi) Let's connect and embark on a journey to create impactful and transformative solutions together!
 
 ---
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaim-abbasi) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21979623) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Zaim-Abbasi) 
-
----
-
 ## 💻 My Tech Stack:
 
 | **Languages & Frameworks** | **Front-end & Design** | **Back-end & Databases** | **Tools & Platforms** | **Design & Creativity** |
