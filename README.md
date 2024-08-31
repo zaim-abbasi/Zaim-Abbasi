@@ -1,8 +1,8 @@
 # 🌟 Welcome to My GitHub Profile!
 
 👋 Hello! I'm **Zaim**, a Software Engineering student at **NUCES**, Islamabad.<br>
-📚 I'm currently learning **ASP.NET** and **full-stack development**, leveraging my skills to build scalable applications <br>
-🧠 Passionate about **generative AI**, **ML**, and exploring the latest advancements in these fields.<br>
+📚 I'm currently learning **ASP.NET** and **full-stack development**.<br>
+🧠 Passionate about **generative AI**, **ML**.<br>
 
 ---
 
