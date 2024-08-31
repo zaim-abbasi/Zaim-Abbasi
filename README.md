@@ -22,9 +22,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![Zaim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaim-Abbasi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Zaim's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Zaim-Abbasi&theme=dracula&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaim-Abbasi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaim-Abbasi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Zaim's GitHub Stats" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaim-Abbasi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 49%;" />
+</div>
+
 
 ---
 
