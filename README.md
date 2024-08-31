@@ -22,9 +22,9 @@
 ---
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Zaim-Abbasi&show_icons=true&theme=dracula&title_color=fffff1&border_radius=18&include_all_commits=true&count_private=true" >
-
-<img src="[https://github-readme-streak-stats.herokuapp.com?user=umarwaseeem&theme=dracula](https://github-readme-streak-stats.herokuapp.com/?user=Zaim-Abbasi&&theme=dracula)">
+![Zaim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaim-Abbasi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Zaim's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Zaim-Abbasi&theme=dracula&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaim-Abbasi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
