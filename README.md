@@ -1,6 +1,6 @@
-![Welcome GIF](https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif)
-
 # 🌟 Welcome to My Profile!
+
+<img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Welcome GIF" style="width: 100%; height: auto; max-height: 200px;"/>
 
 👋 Hey there! I'm **Zaim**, a passionate software engineering student from **NUCES University, Islamabad**.<br>
 📚 Currently diving deep into **ASP.NET** and full-stack development.<br>
