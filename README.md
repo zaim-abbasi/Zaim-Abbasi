@@ -1,8 +1,6 @@
-# 🌟 Welcome to My GitHub Profile!
+# 🌟 Welcome,
 
-👋 Hello! I'm **Zaim**, a Software Engineering student at **NUCES**, Islamabad.<br>
-📚 I'm currently learning **ASP.NET** and **full-stack development**.<br>
-🧠 Passionate about **generative AI**, **ML**.<br>
+👋 Hello! I'm **Zaim** <br>
 
 ---
 
