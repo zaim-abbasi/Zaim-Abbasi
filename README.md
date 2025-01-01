@@ -1,36 +1,36 @@
-<h2 align="left">Hail, warriors and seekers of glory!</h2>
-
-###
-
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaim-abbasi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=60&animation=fadeIn" width="100%" />
 </div>
 
-###
+<!-- About Me Section -->
+<h2 align="center">About Me</h2>
+<p align="center">
+  Passionate developer crafting elegant solutions to complex problems
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20GitHub%20Journey" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaim-abbasi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Technology%20Stack" height="150" alt="languages graph" />
 </div>
 
-###
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zaim-abbasi&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
 
-<div align="left">
-  <a href="www.linkedin.com/in/zaim-abbasi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+<!-- Skills Section -->
+<h2 align="center">Skills & Technologies</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,docker,aws" alt="skills" />
+</p>
+
+<!-- Connect Section -->
+<h2 align="center">Let's Connect</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/zaim-abbasi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-</div>
-
-###
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?s
