@@ -2,8 +2,16 @@
 
 ###
 
-| ![Stats Graph](https://github-readme-stats.vercel.app/api?username=zaim-abbasi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false) | ![Giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxdG9pa2FuaDB4Mm01aWhicDk1aHd6cnRmNDg4OWM0eTF5MjJweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif) |
-|---|---|
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Stats Graph" />
+    </td>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxdG9pa2FuaDB4Mm01aWhicDk1aHd6cnRmNDg4OWM0eTF5MjJweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Giphy" height="150" />
+    </td>
+  </tr>
+</table>
 
 ###
 
