@@ -2,12 +2,12 @@
 
 ###
 
-<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
+<table style="border-collapse: collapse; width: 100%; table-layout: fixed; border: none;">
   <tr>
-    <td style="border: none; width: 70%;">
+    <td style="border: none; width: 70%; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Stats Graph" style="width: 100%;" />
     </td>
-    <td style="border: none; width: 30%;">
+    <td style="border: none; width: 30%; padding: 0;">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxdG9pa2FuaDB4Mm01aWhicDk1aHd6cnRmNDg4OWM0eTF5MjJweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Giphy" height="150" />
     </td>
   </tr>
