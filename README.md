@@ -29,7 +29,7 @@
 <!-- Connect Section -->
 <h2 align="center">Let's Connect</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/zaim-abbasi" target="_blank">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
