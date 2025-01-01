@@ -10,19 +10,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
 </div>
 
 ###
