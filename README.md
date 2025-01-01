@@ -23,14 +23,17 @@
 <!-- Skills Section -->
 <h2 align="center">Skills & Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,docker,aws" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,csharp,java" alt="skills" />
 </p>
 
 <!-- Connect Section -->
 <h2 align="center">Let's Connect</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://linkedin.com/in/zaim-abbasi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?s
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <!-- Add more social media links here -->
+</p>
