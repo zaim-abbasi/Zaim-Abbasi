@@ -15,11 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaim-abbasi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Technology%20Stack" height="150" alt="languages graph" />
 </div>
 
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zaim-abbasi&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</div>
-
 <!-- Skills Section -->
 <h2 align="center">Skills & Technologies</h2>
 <p align="center">
