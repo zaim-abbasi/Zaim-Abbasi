@@ -23,7 +23,7 @@
 <!-- Skills Section -->
 <h2 align="center">Skills & Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,csharp,java" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,java" alt="skills" />
 </p>
 
 <!-- Connect Section -->
