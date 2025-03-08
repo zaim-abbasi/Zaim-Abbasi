@@ -17,8 +17,9 @@
 
 <!-- Activity Graph -->
 <p align="center">
-  <p>  </p>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaim-abbasi&theme=dracula&area=true&hide_border=true" width="100%">
+  <br>
+  <br>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaim-abbasi&bg_color=333333&color=cccccc&line=999999&point=ffffff&area=true&hide_border=true" width="100%">
 </p>
 
 <!-- Skills Section -->
