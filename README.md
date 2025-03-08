@@ -18,5 +18,6 @@
 <!-- Skills Section -->
 <h2 align="center" style="margin-top: 10px;">Skills & Technologies</h2>
 <div align="center" style="margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,mongodb,nodejs,expressjs,python,figma" alt="Skills" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,bootstrap,express,vite,mongodb,figma,postman,cpp,cs,python,java" alt="Skills" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+
 </div>
