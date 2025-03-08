@@ -1,33 +1,41 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=180&section=header&text=Hi%20There!%20👋&fontSize=60&animation=fadeIn&fontColor=cccccc&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B8FA1&height=190&section=header&text=Hi%20There!%20👋&fontSize=60&animation=fadeIn&fontColor=FFFFFF&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=65&fontAlignY=35&descSize=20" width="100%" />
 </div>
 
 <!-- About Me Section -->
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=435&lines=About+Me;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=435&lines=About+Me;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   <p align="center">
-    <em>Passionate developer dedicated to crafting elegant solutions to complex problems. Constantly learning and exploring new technologies to build innovative applications.</em>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&multiline=true&width=600&height=60&lines=A+passionate+developer+dedicated+to+crafting+elegant+solutions.;Constantly+learning+and+exploring+new+technologies+to+build+innovative+applications." alt="About Me Typing SVG" />
   </p>
 </div>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats with Hover Effects -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&theme=dark&bg_color=333333&text_color=cccccc&icon_color=999999&title_color=999999&hide_border=true&show_icons=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaim-abbasi&theme=dark&background=333333&ring=999999&fire=999999&currStreakLabel=999999&sideLabels=999999&dates=cccccc&hide_border=true" height="165" />
+  <a href="https://github.com/zaim-abbasi" target="_blank">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&ring_color=7B8FA1&hide_rank=true&card_width=495" />
+  </a>
+  <a href="https://github.com/zaim-abbasi" target="_blank">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaim-abbasi&theme=dark&background=0D1117&ring=7B8FA1&fire=7B8FA1&currStreakLabel=7B8FA1&sideLabels=7B8FA1&dates=7B8FA1&stroke=7B8FA1&border=7B8FA1&card_width=495" />
+  </a>
 </div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaim-abbasi&bg_color=333333&color=cccccc&line=999999&point=ffffff&area=true&hide_border=true" width="100%">
-
-<!-- Skills Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> 
-  Skills & Technologies
-</h2>
-
+<!-- Animated Activity Graph with Gradient -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,nodejs,express,mongodb,cpp,cs,python,java,figma,postman,bootstrap" alt="Skills" />
+  <a href="https://github.com/zaim-abbasi" target="_blank">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaim-abbasi&bg_color=0D1117&color=7B8FA1&line=7B8FA1&point=7B8FA1&area=true&hide_border=true&area_color=7B8FA130" alt="Activity Graph" />
+  </a>
+</div>
+
+<!-- Skills Section with Animated Title and Hover Effects -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=435&lines=Skills+%26+Technologies" alt="Skills Title" />
+  
+  <!-- Skills in Single Row -->
+  <div align="center" style="margin-top: 20px;">
+    <a href="#" title="Technologies">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,nodejs,express,mongodb,cpp,cs,python,java,figma,postman,bootstrap" alt="Skills" />
+    </a>
+  </div>
 </div>
