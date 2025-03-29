@@ -23,6 +23,7 @@
   </a>
 </div>
 
+
 <!-- Tech Stack -->
 <div align="center" style="margin-top: 10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=435&lines=Tech+Stack" alt="Skills Title" />
