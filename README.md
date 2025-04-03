@@ -1,6 +1,6 @@
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=435&lines=About+Me;Full+Stack+Developer;Tech+Developer;Code+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=435&lines=About+Me;Full+Stack+Developer" alt="Typing SVG" />
   <p align="center" style="margin: 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=SWE+|+Full+Stack+Developer+(React%2C+Next.js);Ex+NADRA+|+Software+Engineering+Undergraduate%2C+FAST+(Class+of+'26);Making+stuff+with+code" alt="About Me Typing SVG" />
   </p>
