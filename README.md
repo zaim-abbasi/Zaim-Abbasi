@@ -2,7 +2,7 @@
 <!-- ANIMATED GREETING -->
 <div align="center" style="margin-bottom: 10px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&random=false&width=500&lines=Hello+World+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;MERN+Stack+%7C+Next.js+%7C+GoLang" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&random=false&width=500&lines=Product+Engineer" alt="Typing SVG" />
   </a>
 </div>
 <!-- ABOUT ME WITH VISUAL ELEMENTS -->
