@@ -1,34 +1,72 @@
-<!-- About Me Section -->
+
+<!-- ANIMATED GREETING -->
+<div align="center" style="margin-bottom: 10px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&random=false&width=500&lines=Hello+World+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;MERN+Stack+%7C+Next.js+%7C+GoLang" alt="Typing SVG" />
+  </a>
+</div>
+<!-- ABOUT ME WITH VISUAL ELEMENTS -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=435&lines=About+Me;Full+Stack+Developer" alt="Typing SVG" />
-  <p align="center" style="margin: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=SWE+|+Full+Stack+Developer+(React%2C+Next.js);Ex+NADRA+|+Software+Engineering+Undergraduate%2C+FAST+(Class+of+'26);Making+stuff+with+code" alt="About Me Typing SVG" />
-  </p>
+  <div style="display: inline-block; padding: 15px; background-color: #0D1117; border-radius: 10px; margin: 10px 0; box-shadow: 0 6px 24px rgba(0,0,0,0.2);">
+    <table border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <td width="60%" align="left" valign="top" style="padding: 10px;">
+          <h2>
+            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
+            <span style="color: #7B8FA1; font-weight: bold; font-size: 22px;">About Me</span>
+          </h2>
+          <ul style="list-style-type: none; padding: 0; margin: 10px 0;">
+            <li style="margin: 8px 0;">
+              SWE | Full Stack Developer (React, Next.js)
+            </li>
+            <li style="margin: 8px 0;">
+              Ex NADRA | Software Engineering Student
+            </li>
+            <li style="margin: 8px 0;">
+              FAST University (Class of '26)
+            </li>
+          </ul>
+        </td>
+        <td width="40%" align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaim-abbasi&layout=compact&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&hide_border=true&card_width=280" alt="Most Used Languages" />
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
+<!-- GITHUB STATS SECTION WITH GLOW EFFECT -->
+<div align="center" style="margin: 20px 0;">
 
-<!-- GitHub Stats -->
-<div align="center" style="margin: 10px 0; display: flex; justify-content: center; gap: 0;">
-  <a href="https://github.com/zaim-abbasi" target="_blank">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&ring_color=7B8FA1&hide_rank=true&card_width=495" />
-  </a>
-  <a href="https://github.com/zaim-abbasi" target="_blank">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaim-abbasi&theme=dark&background=0D1117&ring=7B8FA1&fire=7B8FA1&currStreakLabel=7B8FA1&sideLabels=7B8FA1&dates=7B8FA1&stroke=7B8FA1&border=7B8FA1&card_width=495" />
-  </a>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+    <a href="https://github.com/zaim-abbasi">
+      <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&hide_border=true&card_width=495" />
+    </a>
+    <a href="https://github.com/zaim-abbasi">
+      <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-streak-stats.herokuapp.com/?user=zaim-abbasi&theme=dark&background=0D1117&ring=7B8FA1&fire=7B8FA1&currStreakLabel=7B8FA1&sideLabels=7B8FA1&dates=7B8FA1&hide_border=true&card_width=495" />
+    </a>
+  </div>
+  <!-- ACTIVITY GRAPH WITH GLOW -->
+  <div align="center" style="margin: 15px 0;">
+    <a href="https://github.com/zaim-abbasi">
+      <img width="98%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-activity-graph.vercel.app/graph?username=zaim-abbasi&bg_color=0D1117&color=7B8FA1&line=7B8FA1&point=FFFFFF&area=true&hide_border=true&area_color=7B8FA130" alt="Activity Graph" />
+    </a>
+  </div>
 </div>
-
-<!-- Activity Graph -->
-<div align="center" style="margin: 10px 0;">
-  <a href="https://github.com/zaim-abbasi" target="_blank">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaim-abbasi&bg_color=0D1117&color=7B8FA1&line=7B8FA1&point=7B8FA1&area=true&hide_border=true&area_color=7B8FA130" alt="Activity Graph" />
+<!-- TECH STACK WITH ANIMATED HEADER -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&random=false&width=380&height=45&lines=Tech+Stack" alt="Tech Stack" />
   </a>
+  <!-- GLOWING TECH STACK CARD -->
+  <div align="center" style="margin: 20px auto; max-width: 800px; background: linear-gradient(145deg, #0D1117, #121920); padding: 20px; border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); backdrop-filter: blur(4px); border: 1px solid rgba(123, 143, 161, 0.18);">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,go,ts,nodejs,postgres,mongodb,python,linux" width="auto" height="50" alt="Tech Stack" />
+  </div>
 </div>
-
-
-<!-- Tech Stack -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=435&lines=Tech+Stack" alt="Skills Title" />
-  
-  <div align="center" style="margin: 10px 0; background: #0D1117; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,nodejs,express,mongodb,figma,postman" alt="Tech Stack" style="filter: drop-shadow(0 0 5px #7B8FA1);" />
+<!-- AESTHETIC QUOTE SECTION -->
+<div align="center" style="margin: 15px auto; max-width: 850px; padding: 0 20px;">
+  <div style="background: linear-gradient(to right, rgba(123, 143, 161, 0.05), rgba(123, 143, 161, 0.2), rgba(123, 143, 161, 0.05)); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+    <p style="font-style: italic; color: #7B8FA1; font-size: 16px; text-align: center; margin: 0;">
+      "Code is like humor. When you have to explain it, it's bad." — Cory House
+    </p>
   </div>
 </div>
