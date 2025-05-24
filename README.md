@@ -16,7 +16,7 @@
           </h2>
           <ul style="list-style-type: none; padding: 0; margin: 20px 0;">
             <li style="margin: 12px 0;">
-              SWE | Full Stack Developer (React, Next.js)
+              SWE | Full Stack Developer (React, GoLang)
             </li>
             <li style="margin: 12px 0;">
               Ex NADRA | Software Engineering Student
