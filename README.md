@@ -16,19 +16,16 @@
           </h2>
           <ul style="list-style-type: none; padding: 0; margin: 20px 0;">
             <li style="margin: 12px 0;">
-              Backend Engineer with a strong focus on scalable system architecture, API-first development, and database optimization.
+              Backend engineer specializing in API design, database architecture, and system scalability.
             </li>
             <li style="margin: 12px 0;">
-              Proficient in Node.js (Fastify, Express) and Python (FastAPI) for building high-performance backend services.
+              Proficient in Node.js (Express), Python (FastAPI), PostgreSQL, and MongoDB.
             </li>
             <li style="margin: 12px 0;">
-              Experience working with PostgreSQL and MongoDB - from schema design to query performance tuning.
+              Skilled in REST API development, Postman workflows, and backend optimization.
             </li>
             <li style="margin: 12px 0;">
-              Skilled in REST API lifecycle, Postman automation, and integration testing.
-            </li>
-            <li style="margin: 12px 0;">
-              Final-year SE student @ FAST-NUCES | Ex NADRA
+              Final-year Software Engineering student at FAST-NUCES | Ex-NADRA Intern.
             </li>
           </ul>
         </td>
