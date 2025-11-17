@@ -68,7 +68,7 @@
   
   <div align="left" style="margin: 30px auto; max-width: 800px; background: linear-gradient(145deg, #0D1117, #121920); padding: 30px; border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); backdrop-filter: blur(4px); border: 1px solid rgba(123, 143, 161, 0.18);">
     
-  **💼 Full Stack Developer** @ Focentra Inc. (Aug 2025 - Sep 2025)
+  **💼 Full Stack Developer** @ Focentra Inc. (Aug 2025)
   - Built end-to-end product features delivering seamless user experiences on scalable architecture
   - Shipped production-ready solutions driving measurable impact in fast-paced startup environment
     
