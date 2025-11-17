@@ -16,16 +16,13 @@
           </h2>
           <ul style="list-style-type: none; padding: 0; margin: 20px 0;">
             <li style="margin: 12px 0;">
-              Full Stack Developer architecting enterprise-grade solutions from concept to deployment.
+              Full Stack Developer building scalable, production-ready applications.
             </li>
             <li style="margin: 12px 0;">
-              Specialized in JavaScript/TypeScript ecosystem: Node.js (Express, Fastify), Next.js, and React.
+              Skilled in JS/TS, React, Next.js, Node.js, and Python.
             </li>
             <li style="margin: 12px 0;">
-              Expert in REST API development, database architecture (PostgreSQL, MongoDB), and distributed systems.
-            </li>
-            <li style="margin: 12px 0;">
-              Crafting high-performance, production-grade applications with clean architecture and scalable design patterns.
+              Strong focus on REST APIs, backend architecture, and databases.
             </li>
           </ul>
         </td>
@@ -34,18 +31,6 @@
         </td>
       </tr>
     </table>
-  </div>
-</div>
-
-<!-- GITHUB STATS -->
-<div align="center" style="margin: 40px 0;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <a href="https://github.com/zaim-abbasi">
-      <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-stats.vercel.app/api?username=zaim-abbasi&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&hide_border=true&card_width=495" />
-    </a>
-    <a href="https://github.com/zaim-abbasi">
-      <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-streak-stats.herokuapp.com/?user=zaim-abbasi&theme=dark&background=0D1117&ring=7B8FA1&fire=7B8FA1&currStreakLabel=7B8FA1&sideLabels=7B8FA1&dates=7B8FA1&hide_border=true&card_width=495" />
-    </a>
   </div>
 </div>
 
