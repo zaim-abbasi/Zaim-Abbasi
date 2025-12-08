@@ -26,9 +26,6 @@
             </li>
           </ul>
         </td>
-        <td width="40%" align="center" style="padding: 20px;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaim-abbasi&layout=compact&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&hide_border=true&card_width=280" alt="Top Languages" />
-        </td>
       </tr>
     </table>
   </div>
